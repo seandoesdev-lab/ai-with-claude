@@ -119,6 +119,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [012](./Day-012/Day-012.md) | 2026-06-19 | 📄 논문 읽기 입문 — 논문의 해부학·3-pass 독해법·핵심 5질문 / Paper-Reading 101 | 1 | ✅ |
 | [013](./Day-013/Day-013.md) | 2026-06-23 | 확률로 분류하기 — 나이브 베이즈(Naïve Bayes) 텍스트 분류기 / Naïve Bayes Text Classification | 1 | ✅ |
 | [014](./Day-014/Day-014.md) | 2026-06-24 | 🛠️ B1 빌드 — TF-IDF + 로지스틱 회귀 분류기 from scratch (NumPy) / B1 Build: TF-IDF + Logistic Regression from Scratch | 1 | ✅ 🛠️ |
+| [015](./Day-015/Day-015.md) | 2026-06-25 | Phase 1 총정리 & 정보 검색(IR)으로 가는 다리 / Phase 1 Recap & Bridge to Information Retrieval | 1 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
