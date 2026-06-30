@@ -122,6 +122,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [015](./Day-015/Day-015.md) | 2026-06-25 | Phase 1 총정리 & 정보 검색(IR)으로 가는 다리 / Phase 1 Recap & Bridge to Information Retrieval | 1 | ✅ |
 | [016](./Day-016/Day-016.md) | 2026-06-26 | 검색 시스템의 뼈대 & 역색인(Inverted Index) 직접 만들기 / Search System Anatomy & Building an Inverted Index | 2 | ✅ |
 | [017](./Day-017/Day-017.md) | 2026-06-29 | 랭킹의 핵심, BM25 — tf 포화·문서길이 정규화로 점수 매기기 / Ranking with BM25: TF Saturation & Length Normalization | 2 | ✅ |
+| [018](./Day-018/Day-018.md) | 2026-06-30 | 검색을 평가하다 — IR 평가지표(Precision@k·MAP·MRR·nDCG) / IR Evaluation Metrics | 2 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
