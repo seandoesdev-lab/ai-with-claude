@@ -124,6 +124,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [017](./Day-017/Day-017.md) | 2026-06-29 | 랭킹의 핵심, BM25 — tf 포화·문서길이 정규화로 점수 매기기 / Ranking with BM25: TF Saturation & Length Normalization | 2 | ✅ |
 | [018](./Day-018/Day-018.md) | 2026-06-30 | 검색을 평가하다 — IR 평가지표(Precision@k·MAP·MRR·nDCG) / IR Evaluation Metrics | 2 | ✅ |
 | [019](./Day-019/Day-019.md) | 2026-07-02 | 정답지는 어디서 오나 — 테스트 컬렉션·qrels·pooling·판단자 일치도(Cohen's κ) / Where Judgments Come From: Test Collections, Pooling & Annotator Agreement | 2 | ✅ |
+| [020](./Day-020/Day-020.md) | 2026-07-06 | 검색 파이프라인으로 잇기 — 색인·랭킹·평가 통합 & 평가-주도 개발(EDD) / Wiring the Retrieval Pipeline & Evaluation-Driven Development | 2 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
