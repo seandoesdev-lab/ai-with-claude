@@ -126,6 +126,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [019](./Day-019/Day-019.md) | 2026-07-02 | 정답지는 어디서 오나 — 테스트 컬렉션·qrels·pooling·판단자 일치도(Cohen's κ) / Where Judgments Come From: Test Collections, Pooling & Annotator Agreement | 2 | ✅ |
 | [020](./Day-020/Day-020.md) | 2026-07-06 | 검색 파이프라인으로 잇기 — 색인·랭킹·평가 통합 & 평가-주도 개발(EDD) / Wiring the Retrieval Pipeline & Evaluation-Driven Development | 2 | ✅ |
 | [021](./Day-021/Day-021.md) | 2026-07-07 | 🛠️ B2 빌드 — BM25 검색엔진 + nDCG·MAP 평가, from scratch / B2 Build: BM25 Engine + Evaluation Harness from Scratch | 2 | ✅ 🛠️ |
+| [022](./Day-022/Day-022.md) | 2026-07-08 | 📄 BM25의 원전 — 확률적 적합성 프레임워크(PRP·BIM·RSJ·2-Poisson) / Paper Deep-Dive: The Probabilistic Relevance Framework (BM25 and Beyond) | 2 | ✅ 📄 |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
