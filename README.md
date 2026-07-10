@@ -128,6 +128,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [021](./Day-021/Day-021.md) | 2026-07-07 | 🛠️ B2 빌드 — BM25 검색엔진 + nDCG·MAP 평가, from scratch / B2 Build: BM25 Engine + Evaluation Harness from Scratch | 2 | ✅ 🛠️ |
 | [022](./Day-022/Day-022.md) | 2026-07-08 | 📄 BM25의 원전 — 확률적 적합성 프레임워크(PRP·BIM·RSJ·2-Poisson) / Paper Deep-Dive: The Probabilistic Relevance Framework (BM25 and Beyond) | 2 | ✅ 📄 |
 | [023](./Day-023/Day-023.md) | 2026-07-09 | 질의 확장과 의사 적합 피드백 — 상위 문서로 질의를 넓히기(Rocchio·PRF) / Query Expansion & Pseudo-Relevance Feedback | 2 | ✅ |
+| [024](./Day-024/Day-024.md) | 2026-07-10 | 벡터 공간 모델(VSM)과 코사인 유사도 랭킹 — 문서=벡터, 각도로 매기는 순위 / The Vector Space Model & Cosine Similarity | 2 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
