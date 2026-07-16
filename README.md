@@ -132,6 +132,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [025](./Day-025/Day-025.md) | 2026-07-13 | Phase 2 총정리 & 딥러닝/트랜스포머로 가는 다리 — 어휘 불일치의 벽 / Phase 2 Recap & Bridge to Deep Learning | 2 | ✅ |
 | [026](./Day-026/Day-026.md) | 2026-07-14 | 신경망의 첫 원리 — 퍼셉트론에서 다층 신경망(MLP)까지, 순전파와 비선형성 / Neural Networks from First Principles: Perceptron → MLP & the Forward Pass | 3 | ✅ |
 | [027](./Day-027/Day-027.md) | 2026-07-15 | 역전파(Backpropagation) — 손실·연쇄법칙·경사하강으로 신경망이 스스로 배우는 법 / How Neural Networks Learn: Loss, the Chain Rule & Gradient Descent | 3 | ✅ |
+| [028](./Day-028/Day-028.md) | 2026-07-16 | PyTorch 입문 — 텐서와 autograd 로 backprop 자동화하기 / PyTorch 101: Tensors & Autograd | 3 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
