@@ -134,6 +134,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [027](./Day-027/Day-027.md) | 2026-07-15 | 역전파(Backpropagation) — 손실·연쇄법칙·경사하강으로 신경망이 스스로 배우는 법 / How Neural Networks Learn: Loss, the Chain Rule & Gradient Descent | 3 | ✅ |
 | [028](./Day-028/Day-028.md) | 2026-07-16 | PyTorch 입문 — 텐서와 autograd 로 backprop 자동화하기 / PyTorch 101: Tensors & Autograd | 3 | ✅ |
 | [029](./Day-029/Day-029.md) | 2026-07-20 | nn.Module 과 torch.optim — 모델과 학습을 깔끔하게 캡슐화하기 / Encapsulating Models & Optimizers | 3 | ✅ |
+| [030](./Day-030/Day-030.md) | 2026-07-20 | RNN 입문 — 순서가 있는 데이터(시퀀스)를 다루는 신경망 / Recurrent Neural Networks | 3 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
