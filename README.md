@@ -138,6 +138,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [031](./Day-031/Day-031.md) | 2026-07-21 | LSTM 과 GRU — 게이트로 장기 기억을 지키기 / Long Short-Term Memory & GRU | 3 | ✅ |
 | [032](./Day-032/Day-032.md) | 2026-07-22 | Attention 메커니즘 — 순환의 병목을 넘어 '모든 위치를 한 번에' 보기 / The Attention Mechanism | 3 | ✅ |
 | [033](./Day-033/Day-033.md) | 2026-07-22 | Self-Attention 과 Transformer 인코더 블록 — 순환을 완전히 버리기 / Self-Attention & the Transformer Encoder Block | 3 | ✅ |
+| [034](./Day-034/Day-034.md) | 2026-07-23 | Transformer를 완성하다 — 인과 마스크, 인코더 vs 디코더, Post-/Pre-LN / Completing the Transformer: Causal Mask, Encoder vs Decoder | 3 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
