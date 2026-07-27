@@ -140,6 +140,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [033](./Day-033/Day-033.md) | 2026-07-22 | Self-Attention 과 Transformer 인코더 블록 — 순환을 완전히 버리기 / Self-Attention & the Transformer Encoder Block | 3 | ✅ |
 | [034](./Day-034/Day-034.md) | 2026-07-23 | Transformer를 완성하다 — 인과 마스크, 인코더 vs 디코더, Post-/Pre-LN / Completing the Transformer: Causal Mask, Encoder vs Decoder | 3 | ✅ |
 | [035](./Day-035/Day-035.md) | 2026-07-23 | 📄 정독: Attention Is All You Need — Transformer의 원전을 3-pass로 읽다 / Paper Deep-Dive: Attention Is All You Need | 3 | ✅ 📄 |
+| [036](./Day-036/Day-036.md) | 2026-07-27 | 🛠️ B3 빌드(1부): NumPy로 MLP + 역전파를 손코딩하다 / Build B3-1: MLP with Hand-Written Backprop from Scratch | 3 | ✅ 🛠️ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
