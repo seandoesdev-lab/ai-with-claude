@@ -143,6 +143,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [036](./Day-036/Day-036.md) | 2026-07-27 | 🛠️ B3 빌드(1부): NumPy로 MLP + 역전파를 손코딩하다 / Build B3-1: MLP with Hand-Written Backprop from Scratch | 3 | ✅ 🛠️ |
 | [037](./Day-037/Day-037.md) | 2026-07-28 | 🛠️ B3 빌드(2부): PyTorch로 미니 Transformer를 손으로 조립하다 / Build B3-2: A Mini Decoder-Only Transformer from Scratch in PyTorch | 3 | ✅ 🛠️ |
 | [038](./Day-038/Day-038.md) | 2026-07-29 | BERT: 마스크를 걷고 '양방향'으로 사전학습하기 / BERT: Bidirectional Pre-training with Masked Language Modeling | 3 | ✅ |
+| [039](./Day-039/Day-039.md) | 2026-07-30 | GPT 계열: 단방향을 고집해서 이긴 쪽 — 스케일과 문맥 내 학습 / The GPT Line: Scale, Zero/Few-Shot & In-Context Learning | 3 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
