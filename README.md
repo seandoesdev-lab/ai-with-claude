@@ -146,6 +146,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [039](./Day-039/Day-039.md) | 2026-07-30 | GPT 계열: 단방향을 고집해서 이긴 쪽 — 스케일과 문맥 내 학습 / The GPT Line: Scale, Zero/Few-Shot & In-Context Learning | 3 | ✅ |
 | [040](./Day-040/Day-040.md) | 2026-07-31 | Phase 3 총정리 & LLM 깊이 이해로 가는 다리 — 같은 과제, 다섯 구조 / Phase 3 Recap & Bridge to LLMs: One Task, Five Architectures | 3 | ✅ |
 | [041](./Day-041/Day-041.md) | 2026-08-03 | BPE 토크나이저: 텍스트는 실제로 어떻게 쪼개지는가 / Byte-Pair Encoding from Scratch | 4 | ✅ |
+| [042](./Day-042/Day-042.md) | 2026-08-04 | 디코딩 전략: 확률 분포에서 문장을 꺼내는 법 (greedy·beam·온도·top-k·top-p) / Decoding Strategies | 4 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
