@@ -147,6 +147,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [040](./Day-040/Day-040.md) | 2026-07-31 | Phase 3 총정리 & LLM 깊이 이해로 가는 다리 — 같은 과제, 다섯 구조 / Phase 3 Recap & Bridge to LLMs: One Task, Five Architectures | 3 | ✅ |
 | [041](./Day-041/Day-041.md) | 2026-08-03 | BPE 토크나이저: 텍스트는 실제로 어떻게 쪼개지는가 / Byte-Pair Encoding from Scratch | 4 | ✅ |
 | [042](./Day-042/Day-042.md) | 2026-08-04 | 디코딩 전략: 확률 분포에서 문장을 꺼내는 법 (greedy·beam·온도·top-k·top-p) / Decoding Strategies | 4 | ✅ |
+| [043](./Day-043/Day-043.md) | 2026-08-05 | 사전학습과 파인튜닝: 그 분포는 애초에 어떻게 만들어졌는가 / Pre-training & Fine-tuning | 4 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
