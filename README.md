@@ -149,6 +149,7 @@ By the end of this track you will be able to: use Python fluently for AI work, u
 | [042](./Day-042/Day-042.md) | 2026-08-04 | 디코딩 전략: 확률 분포에서 문장을 꺼내는 법 (greedy·beam·온도·top-k·top-p) / Decoding Strategies | 4 | ✅ |
 | [043](./Day-043/Day-043.md) | 2026-08-05 | 사전학습과 파인튜닝: 그 분포는 애초에 어떻게 만들어졌는가 / Pre-training & Fine-tuning | 4 | ✅ |
 | [044](./Day-044/Day-044.md) | 2026-08-06 | 📄 정독: Scaling Laws — 사전학습에 얼마를 투자해야 하는가 / Paper Deep-Dive: Scaling Laws & Chinchilla | 4 | ✅ 📄 |
+| [045](./Day-045/Day-045.md) | 2026-08-07 | 프롬프팅과 문맥 내 학습 — 가중치를 한 번도 건드리지 않고 모델을 부리는 법 / Prompting & In-Context Learning: Induction Heads Dissected | 4 | ✅ |
 
 > 새 자료가 생성될 때마다 이 표에 한 줄이 추가됩니다. A new row is added here whenever a lesson is generated.
 
